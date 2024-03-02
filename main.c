@@ -6,7 +6,7 @@
   *
   * @note    modified by ARM
   *          The modifications allow to use this file as User Code Template
-  *          within the Device Family Pack.
+  *          within the Device Family Pack. //
   ******************************************************************************
   * @attention
   *
